@@ -3,11 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About Me
 ---
 
-## About Me:
+<!-- ## About Me -->
 
-Hello, I'm Dylan Barva, a first year Computer Science major at UC San Diego. I enjoy writing software that solves practical problems.
+Hello, I'm Dylan Barva, a first year Computer Science major at UC San Diego. I enjoy writing software that solves practical problems. 
 
 ### Coursework:
 
