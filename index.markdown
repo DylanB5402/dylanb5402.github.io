@@ -12,16 +12,20 @@ Hello, I'm Dylan Barva, a first year Computer Science major at UC San Diego. I e
 
 ### Coursework:
 
-CSE 11
+[Full course descriptions are available here](https://catalog.ucsd.edu/courses/CSE.html)
 
-CSE 12
+CSE 11 (Fall 2020): Introduction to Programming and Computational Problem-Solving: Accelerated Pace
 
-CSE 15L
+CSE 20 (Fall 2020): Discrete Mathematics
 
-CSE 30
+CSE 12 (Winter 2021): Basic Data Structures and Object-Oriented Design
 
-CSE 20
+CSE 15L (Winter 2021): Software Tools and Techniques Laboratory
 
-CSE 21
+CSE 21 (Spring 2021):  Mathematics for Algorithms and Systems
+
+CSE 30 (Spring 2021):  Computer Organization and Systems Programming
+
+
 
 
