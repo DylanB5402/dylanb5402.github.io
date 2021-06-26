@@ -70,4 +70,5 @@ https://github.com/DylanB5402/DrivetrainSim
 
 Timeline: April 2018 - December 2018
 
+Lacking access to a physical robot at home, I put together a simple physics simulation of a differential drivetrain similar to those frequently seen in FRC to experiment with various pathfollowing algorithms.
 
