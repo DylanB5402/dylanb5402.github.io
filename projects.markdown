@@ -19,17 +19,25 @@ While I'd been planning on making this website for a while, I only started worki
 
 Timeline: September 2020
 
+PersonalPlanner was made to automate setting up my Notion board/to-do list each quarter using the Notion API. I add a quarter and what time I have each class, and Notion autopopulates the calendar. 
+
 ### [StupidSummerProject](https://github.com/DylanB5402/StupidSummerProject)
 
 Timeline: June 2019 - September 2019
+
+A Python script wrapping [Fanficfare](https://github.com/JimmXinu/FanFicFare) to download webfiction and automatically send it to my Kindle.
 
 ### [SummerProject2](https://github.com/DylanB5402/SummerProject2/commits/master)
 
 Timeline: June 2020 - July 2020
 
+An Android app for downloading fanfiction from various sites and sending them directly to a Kindle device written in Python using Kivy. The backend uses FanFicFare and fiction from any site supported by FanFicFare can be downloaed. Mobi files are sent over email using SMTP. 
+
 ### [ColorMean](https://github.com/DylanB5402/ColorMean)
 
 Timeline: July 2020
+
+A Python script to "pixelify" images, made while I was bored and interested in working with OpenCV.
 
 ## FIRST Robotics Competition Projects:
 
@@ -37,7 +45,7 @@ The vast majority of software I wrote during High School was for my school's FIR
 
 ### [PowerUp2018](https://github.com/nerdherd/PowerUp2018Offseason)
 
-Also see: https://github.com/nerdherd/PowerUp2018
+Also see: [https://github.com/nerdherd/PowerUp2018](https://github.com/nerdherd/PowerUp2018)
 
 Timeline: January 2018 - October 2018
 
@@ -53,7 +61,11 @@ Timeline: January 2019 - October 2019
 
 Timeline: January 2020 - March 2020
 
+[Thomas](https://www.thebluealliance.com/team/687/2020) was the second robot I worked on as a Programming Lead. More information on its code is available in the repo's README.
+
 ### [NerdyScout](https://github.com/nerdherd/NerdyScoutBlitz)
+
+In FRC, teams often "scout" other robots by recording quantitative data on their performance to determine which robots to play alongside in playoff matches. NerdyScout was a scouting system meant to automate large amounts of the task. Scouts record data on robots using a Google Form. NerdyScout scraped the data from the form's corresponding Google Sheet, analyzed it, and output relevant metrics to another Google Sheet. 
 
 Timeline: October 2019 - March 2020
 
@@ -64,9 +76,9 @@ Timeline: January 2019 - March 2020
 NerdyLib was our team's year and robot agnostic software library. It contained all the abstractions that were identical across different robots. For example, every robot we made had a similar drivetrain, so all code relating to the drive could be abstracted away in NerdyLib. The biggest reason I started NerdyLib was because I was getting tired of copy/pasting identical code between the repos for multiple robots.
 
 ### [Drivetrain Simulation](https://github.com/DylanB5402/RobotDriveTrainSim)
-Also see https://github.com/DylanB5402/PurePursuitSim
+Also see [https://github.com/DylanB5402/PurePursuitSim](https://github.com/DylanB5402/PurePursuitSim)
 
-https://github.com/DylanB5402/DrivetrainSim
+[https://github.com/DylanB5402/DrivetrainSim](https://github.com/DylanB5402/DrivetrainSim)
 
 Timeline: April 2018 - December 2018
 
