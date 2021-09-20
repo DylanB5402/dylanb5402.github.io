@@ -50,5 +50,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 header_pages:
-      - case-studies.markdown
       - projects.markdown

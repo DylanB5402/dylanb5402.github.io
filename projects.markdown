@@ -7,6 +7,15 @@ title: Projects
 
 These are various projects I've worked on over the last few years, some for student organizations in high school and college, and some on my own time.
 
+## Internships:
+
+### [San Diego Supercomputer Center (SDSC) RDS Summer Internship](https://sdsc-ucsd.atlassian.net/wiki/spaces/SRSI21/pages/1834254338/SU21+SDSC+RDS+Summer+Internship+Home)
+#### [tarocard](https://github.com/DylanB5402/tarocard)
+
+Timeline: June 2021 - September 2021
+
+The RDS internship with SDSC was my first formal internship experience. I worked alongside a [team](https://sdsc-ucsd.atlassian.net/wiki/spaces/SRSI21/pages/1834254730/SU21+Team+AhjinTpCc) of 6 other developers to develop a simple social media web application. I worked primarily as a backend developer, working on the server-side and database code, using technologies such as Javascript, Express, and SQLite. Our team spent the first week learning about Agile development and brainstorming our product. The next 2 weeks (the first sprint) was spent learning relevant technologies, during which I learned to use npm and Express, along with reviewing my Javascript and SQL. After this, we spent about 7 weeks properly developing the webapp, the last few days being spent testing and presenting our app.
+
 ## Personal Projects:
 
 ### [dylanb5402.github.io](https://github.com/DylanB5402/dylanb5402.github.io)

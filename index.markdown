@@ -22,9 +22,15 @@ CSE 12 (Winter 2021): Basic Data Structures and Object-Oriented Design
 
 CSE 15L (Winter 2021): Software Tools and Techniques Laboratory
 
-CSE 21 (Spring 2021):  Mathematics for Algorithms and Systems
+CSE 21 (Spring 2021): Mathematics for Algorithms and Systems
 
-CSE 30 (Spring 2021):  Computer Organization and Systems Programming
+CSE 30 (Spring 2021): Computer Organization and Systems Programming
+
+### In Progress Coursework
+
+CSE 100 (Fall 2021): Advanced Data Structures
+
+CSE 140 (Fall 2021): Components and Design Techniques for Digital Systems
 
 
 
