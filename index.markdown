@@ -8,7 +8,7 @@ title: About Me
 
 <!-- ## About Me -->
 
-Hello, I'm Dylan Barva, a first year Computer Science major at UC San Diego. I enjoy writing software that solves practical problems. 
+Hello, I'm Dylan Barva, a second year Computer Science major at UC San Diego. I enjoy writing software that solves practical problems. 
 
 ### Coursework:
 
@@ -26,11 +26,17 @@ CSE 21 (Spring 2021): Mathematics for Algorithms and Systems
 
 CSE 30 (Spring 2021): Computer Organization and Systems Programming
 
-### In Progress Coursework
-
 CSE 100 (Fall 2021): Advanced Data Structures
 
 CSE 140 (Fall 2021): Components and Design Techniques for Digital Systems
+
+### In Progress Coursework
+
+COGS 108 (Winter 2022): Data Science in Practice
+
+CSE 140L (Winter 2022): Digital Systems Laboratory 
+
+CSE 101 (Winter 2022): Design and Analysis of Algorithms
 
 
 
