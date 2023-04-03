@@ -51,3 +51,5 @@ plugins:
 #   - vendor/ruby/
 header_pages:
       - projects.markdown
+      - tutoring.md
+      - portfolio.md
