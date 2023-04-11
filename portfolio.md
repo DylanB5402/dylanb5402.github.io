@@ -22,3 +22,6 @@ Code Walkthrough:
 ## Week 2:
 Code Walkthrough: Loops
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HpPSiUvmnQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Video Explanation: Animal Parade
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sYxLHYkHuqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
