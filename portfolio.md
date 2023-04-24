@@ -33,3 +33,8 @@ Video Explanation: Nested Loops
 
 Video Explanation: Events 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpqCoXTyYaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 4:
+
+Video Explanation: Variables
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7P81CJ-rknc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
