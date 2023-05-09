@@ -42,3 +42,7 @@ Video Explanation: Variables
 ## Week 5:
 Video Explanation: Conditional loops
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y98N9fmfkcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 6:
+Video Explanation: If-Else Statements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06l1ZKROEWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
