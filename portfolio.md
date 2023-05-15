@@ -46,3 +46,7 @@ Video Explanation: Conditional loops
 ## Week 6:
 Video Explanation: If-Else Statements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/06l1ZKROEWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 7:
+Video Explanation: Nested If-Else
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ueOV3k0k5ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
