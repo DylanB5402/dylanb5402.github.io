@@ -50,3 +50,7 @@ Video Explanation: If-Else Statements
 ## Week 7:
 Video Explanation: Nested If-Else
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ueOV3k0k5ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 8:
+Video Explanation: Compound Conditionals
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y1ie9RfttTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
