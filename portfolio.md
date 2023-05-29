@@ -54,3 +54,7 @@ Video Explanation: Nested If-Else
 ## Week 8:
 Video Explanation: Compound Conditionals
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y1ie9RfttTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 9:
+Video Explanation: Abstractions
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zBnIKc-hufA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
