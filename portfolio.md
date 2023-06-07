@@ -58,3 +58,7 @@ Video Explanation: Compound Conditionals
 ## Week 9:
 Video Explanation: Abstractions
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zBnIKc-hufA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Week 10:
+Video Explanations: Lists
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9GOThK_F4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
